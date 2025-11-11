@@ -5,3 +5,11 @@
 .underline {
     text-decoration: underline !important;
 }
+
+.odd {
+    background-color: aqua;
+}
+
+.even {
+    background-color: bisque;
+}
